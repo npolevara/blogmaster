@@ -1,0 +1,4 @@
+blogmaster
+==========
+
+my first blog
